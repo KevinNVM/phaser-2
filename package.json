@@ -33,6 +33,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "jquery": "^3.6.1",
     "phaser": "^3.50.0"
   }
 }
